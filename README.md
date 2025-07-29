@@ -43,8 +43,8 @@ This is a modern web-based quiz application designed to help aspiring drone pilo
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/part107-quiz-app.git
-   cd faa_part_107_quiz
+   git clone https://github.com/KevDevStudios/faa-part-107-quiz.git
+   cd faa-part-107-quiz
    ```
 
 2. **Install dependencies**
